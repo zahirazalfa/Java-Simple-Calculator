@@ -5,7 +5,7 @@
 
 This is a simple **Java** calculator.
 
-<img width="250" alt="calculator" src="https://github.com/ErsinSim/Java-Simple-Calculator/assets/153938106/6a149d3a-d469-4965-9cfd-f9fa91e775bd">
+<img width="250" alt="calculator" src="https://zahirazalfa:patch-1/ErsinSim/Java-Simple-Calculator/assets/153938106/6a149d3a-d469-4965-9cfd-f9fa91e775bd">
 
 ### How to run it?
 
